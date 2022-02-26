@@ -1,0 +1,24 @@
+{
+  "name": "codeceptjs-pageobject-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsuemura/codeceptjs-pageobject-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsuemura/codeceptjs-pageobject-example/issues"
+  },
+  "homepage": "https://github.com/tsuemura/codeceptjs-pageobject-example#readme",
+  "devDependencies": {
+    "codeceptjs": "^3.3.0",
+    "playwright": "^1.19.2"
+  }
+}
