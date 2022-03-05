@@ -1,6 +1,6 @@
 /**
  *
- * @param {function(I: CodeceptJS.I)} fn
+ * @param {function(I): void} fn
  */
 module.exports = function (fn) {
   const I = actor({
